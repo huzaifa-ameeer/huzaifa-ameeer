@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Muhammad Huzaifa Ameer! 👋
+Developer who brings operational precision to modern web architecture.
 
-<!--
-**huzaifa-ameeer/huzaifa-ameeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on: Scaling the MERN Stack and perfecting my semester project, Edusity.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: Advanced Next.js patterns and Cloud Deployment strategies.
 
-- 🔭 I’m currently working on MERN STack
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on: Open-source FinTech or EduTech projects where performance is key.
+
+🤔 I’m looking for help with: Mastering complex SQL optimization and system design.
+
+💬 Ask me about: React, Tailwind CSS, or how Lean & 5S methodologies make for cleaner code.
+
+📫 How to reach me: Connect with me on LinkedIn.
+
+⚡ Fun fact: I can "line balance" a manufacturing floor as easily as I can balance a React state.
