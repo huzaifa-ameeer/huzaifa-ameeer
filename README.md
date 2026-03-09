@@ -40,6 +40,6 @@ Passionate web developer focused on building scalable and high-performance web a
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://github.com/huzaifa-ameeer">
-<img src="[https://skillicons.dev/icons?i=github](https://github.com/huzaifa-ameeer)" />
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
