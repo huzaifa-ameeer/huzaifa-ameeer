@@ -1,16 +1,45 @@
-<h1>Hi, I'm Muhammad Huzaifa Ameer! 👋</h1>
-Developer who brings operational precision to modern web architecture.
+<h1 align="center">Hi 👋, I'm Muhammad Huzaifa Ameer</h1>
+<h3 align="center">MERN Stack Developer | React & Next.js Enthusiast</h3>
 
-🔭 <h2>I’m currently working on: Building scalable MERN stack applications with a focus on high-performance architecture.</h2>
+<p align="center">
+Passionate web developer focused on building scalable and high-performance web applications using modern technologies.
+</p>
 
-🌱 <h2>I’m currently learning: Advanced Next.js patterns and Cloud Deployment strategies.</h2>
+<hr>
 
-👯 <h2>I’m looking to collaborate on: Open-source FinTech or EduTech projects where performance is key.<h2/>
+<h2>🚀 About Me</h2>
 
-🤔 <h2>I’m looking for help with: Mastering complex SQL optimization and system design.</h2>
+<ul>
+<li>🔭 <b>Currently working on:</b> Building scalable MERN stack applications</li>
+<li>🌱 <b>Currently learning:</b> Advanced Next.js and Cloud Deployment</li>
+<li>👯 <b>Looking to collaborate on:</b> Open-source FinTech and EduTech projects</li>
+<li>🤔 <b>Improving skills in:</b> SQL optimization and System Design</li>
+<li>💬 <b>Ask me about:</b> React, JavaScript, Tailwind CSS</li>
+<li>📫 <b>Reach me:</b> LinkedIn</li>
+<li>⚡ <b>Fun fact:</b> I enjoy optimizing both code and system performance</li>
+</ul>
 
-💬 <h2>Ask me about: React, Tailwind CSS, or how Lean & 5S methodologies make for cleaner code.</h2>
+<hr>
 
-📫 <h2>How to reach me: Connect with me on LinkedIn.</h2>
+<h2>🛠️ Tech Stack</h2>
 
-⚡ <h2>Fun fact: I can "line balance" a manufacturing floor as easily as I can balance a React state.</h2>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
+
+<hr>
+
+
+
+<hr>
+
+<h2>🔗 Connect With Me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/muhammad-huzaifa-ameer-2107aa342/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/huzaifa-ameeer">
+<img src="[https://skillicons.dev/icons?i=github](https://github.com/huzaifa-ameeer)" />
+</a>
+</p>
