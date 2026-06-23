@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa Ameer</h1>
 <h3 align="center">MERN Stack Developer | React & Next.js Enthusiast</h3>
-
 <p align="center">
 Passionate web developer focused on building scalable and high-performance web applications using modern technologies.
 </p>
-
 <hr>
-
 <h2>🚀 About Me</h2>
-
 <ul>
 <li>🔭 <b>Currently working on:</b> Building scalable MERN stack applications</li>
 <li>🌱 <b>Currently learning:</b> Advanced Next.js and Cloud Deployment</li>
@@ -18,23 +14,13 @@ Passionate web developer focused on building scalable and high-performance web a
 <li>📫 <b>Reach me:</b> LinkedIn</li>
 <li>⚡ <b>Fun fact:</b> I enjoy optimizing both code and system performance</li>
 </ul>
-
 <hr>
-
 <h2>🛠️ Tech Stack</h2>
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
-
 <hr>
-
-
-
-<hr>
-
 <h2>🔗 Connect With Me</h2>
-
 <p>
 <a href="https://www.linkedin.com/in/muhammad-huzaifa-ameer-2107aa342/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -43,3 +29,10 @@ Passionate web developer focused on building scalable and high-performance web a
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
+<hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MusaNadeem/MusaNadeem/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MusaNadeem/MusaNadeem/output/github-contribution-grid-snake.svg">
+<hr>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MusaNadeem/MusaNadeem/output/github-contribution-grid-snake.svg">
+</picture>
