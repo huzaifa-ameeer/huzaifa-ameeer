@@ -30,9 +30,4 @@ Passionate web developer focused on building scalable and high-performance web a
 </a>
 </p>
 <hr>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MusaNadeem/MusaNadeem/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MusaNadeem/MusaNadeem/output/github-contribution-grid-snake.svg">
-<hr>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MusaNadeem/MusaNadeem/output/github-contribution-grid-snake.svg">
-</picture>
+
