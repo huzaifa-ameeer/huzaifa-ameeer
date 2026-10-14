@@ -8,10 +8,6 @@ Full Stack Developer | MERN | Next.js | Go | Backend Engineering
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+Developer;Backend+Engineering+Enthusiast;Learning+Go+for+Backend;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifa-ameeer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🚀 About Me
