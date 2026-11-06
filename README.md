@@ -1,5 +1,5 @@
-<h1 align="center"> こんにちは！ (Konnichiwa!)👋, I'm Huzaifa </h1>
-
+<h1 align="center"> こんにちは！ (Konnichiwa!)👋
+<h1> I'm Huzaifa </h1>
 <h3 align="center">
 Full Stack Developer | MERN | Next.js | Go | Backend Engineering
 </h3>
