@@ -1,4 +1,4 @@
-<h1 align="center"> こんにちは！ (Konnichiwa!)👋, I'm Muhammad Huzaifa Ameer</h1>
+<h1 align="center"> こんにちは！ (Konnichiwa!)👋, I'm Huzaifa </h1>
 
 <h3 align="center">
 Full Stack Developer | MERN | Next.js | Go | Backend Engineering
