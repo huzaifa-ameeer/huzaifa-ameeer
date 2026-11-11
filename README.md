@@ -124,10 +124,6 @@ I'm a **Full Stack Developer** who loves building **scalable, production-ready b
 
 <img src="https://streak-stats.demolab.com?user=huzaifa-ameeer&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifa-ameeer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
 </div>
 
 ---
